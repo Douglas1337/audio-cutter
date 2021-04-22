@@ -4,4 +4,4 @@ This program extract a fragment of a many audio files located in the same direct
  
 This program works was only teste in Linux Operational Systems, but I think this works fine in Windows OS.
  
-PROBABLY YOU NEED TO INSTALL ffmpeg in our system: "pip install ffmpeg" to this program works fine!
+PROBABLY YOU NEED TO INSTALL ffmpeg in our system: "sudo apt install ffmpeg" to this program works fine!
